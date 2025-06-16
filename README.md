@@ -1,4 +1,4 @@
 ## Markus Saint-Pettersen: Portfolio
-I will use this portfolio to maintain an up-to-date record of my projects. Currently, most of my projects are oriented around data analsis and Python, but I plan on diversifying soon. I am currently in the process of uploading my most recent projects and improving some of the older ones.
+Data analyst with a background in mathematics and linguistics. This portfolio includes Python and SQL based projects in data cleaning, EDA, NLP, and dashboarding. Currently expanding into Power BI and logistics-focused analysis. Projects are regularly updated for clarity, performance, and storytelling.
 ### External links
 [LinkedIn](https://www.linkedin.com/in/m-saint-pettersen/)
