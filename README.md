@@ -3,4 +3,5 @@ Data analyst with a background in mathematics and linguistics. This portfolio in
 ### External links
 [LinkedIn](https://www.linkedin.com/in/m-saint-pettersen/)
 
+[wikiHow Dashboard](https://wikihow-network.streamlit.app/)
 [Television Dashboard](https://television-series-dashboard.streamlit.app/)
